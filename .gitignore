@@ -2,7 +2,9 @@
 dist/
 # generated types
 .astro/
-
+# Editro
+.idea/
+.vscode/
 # dependencies
 node_modules/
 
